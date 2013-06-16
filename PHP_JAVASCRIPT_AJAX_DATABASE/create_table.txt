@@ -1,0 +1,7 @@
+//database is my_db
+
+CREATE TABLE `table1` (
+  `fname` varchar(20) NOT NULL,
+  `lname` varchar(20) NOT NULL,
+  `age` int(11) NOT NULL,
+  ) 
